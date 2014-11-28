@@ -1,5 +1,6 @@
 $main-color: black;
 $main-color2: white;
+$main-font: 'monacoregular';
 
 /* BASE */ 
 
@@ -16,9 +17,40 @@ li {
 	background-color: $main-color;
 	color: $main-color2;
 	padding: 12px;
+	margin: 4px;
 	width: 170px;
+	font-family: 'monacoregular';
 	font-size: 1.2em;
 }
+
+/* unvisited link */
+a:link {
+	text-decoration: none;
+    background-color: $main-color;
+	color: $main-color2;
+}
+
+/* visited link */
+a:visited {
+	text-decoration: none;
+    background-color: $main-color;
+	color: $main-color2;
+}
+
+/* mouse over link */
+a:hover {
+	text-decoration: none;
+    background-color: $main-color;
+	color: $main-color2;
+}
+
+/* selected link */
+a:active {
+	text-decoration: none;
+    background-color: $main-color;
+	color: $main-color2;
+}
+
 /* LAYOUT */ 
 
 .main-photo { 
@@ -26,6 +58,18 @@ li {
 	height: auto;
 }
 
+.top_space {
+	height: 210px;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.active {
+	color: $main-color;
+	background-color: $main-color2;
+}
 
 /* MODULE */ 
 
@@ -34,6 +78,23 @@ li {
 
 
 /* THEME */ 
+
+/* FONT STYLE */
+
+@font-face {
+    font-family: 'monacoregular';
+    src: url('fonts/monaco-webfont.eot');
+    src: url('fonts/monaco-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/monaco-webfont.woff2') format('woff2'),
+         url('fonts/monaco-webfont.woff') format('woff'),
+         url('fonts/monaco-webfont.ttf') format('truetype'),
+         url('fonts/monaco-webfont.svg#monacoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* END OF FONT STYLE */
+
 
 /* HAMBURGER ICON */
 .icon-bar {

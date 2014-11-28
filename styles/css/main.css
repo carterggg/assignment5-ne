@@ -10,17 +10,61 @@ li {
   background-color: black;
   color: white;
   padding: 12px;
+  margin: 4px;
   width: 170px;
+  font-family: 'monacoregular';
   font-size: 1.2em; }
+
+/* unvisited link */
+a:link {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* visited link */
+a:visited {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* selected link */
+a:active {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
 
 /* LAYOUT */
 .main-photo {
   width: 450px;
   height: auto; }
 
+.top_space {
+  height: 210px; }
+
+.align-right {
+  text-align: right; }
+
+.active {
+  color: black;
+  background-color: white; }
+
 /* MODULE */
 /* STATE */
 /* THEME */
+/* FONT STYLE */
+@font-face {
+  font-family: 'monacoregular';
+  src: url("fonts/monaco-webfont.eot");
+  src: url("fonts/monaco-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/monaco-webfont.woff2") format("woff2"), url("fonts/monaco-webfont.woff") format("woff"), url("fonts/monaco-webfont.ttf") format("truetype"), url("fonts/monaco-webfont.svg#monacoregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* END OF FONT STYLE */
 /* HAMBURGER ICON */
 .icon-bar {
   background-color: #000 !important; }

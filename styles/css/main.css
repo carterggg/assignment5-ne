@@ -11,9 +11,11 @@ li {
   color: white;
   padding: 12px;
   margin: 4px;
-  width: 170px;
+  width: 100%;
+  /* 170px */
   font-family: 'monacoregular';
-  font-size: 1.2em; }
+  font-size: 1.2em;
+  text-decoration: none; }
 
 /* unvisited link */
 a:link {
@@ -30,8 +32,8 @@ a:visited {
 /* mouse over link */
 a:hover {
   text-decoration: none;
-  background-color: black;
-  color: white; }
+  background-color: white;
+  color: black; }
 
 /* selected link */
 a:active {
@@ -39,16 +41,28 @@ a:active {
   background-color: black;
   color: white; }
 
+/* mouse over li */
+li:hover {
+  text-decoration: none;
+  background-color: white;
+  color: black; }
+
 /* LAYOUT */
 .main-photo {
   width: 450px;
-  height: auto; }
+  height: auto;
+  margin: auto;
+  padding: auto; }
 
 .top_space {
-  height: 210px; }
+  height: 200px; }
 
 .align-right {
   text-align: right; }
+
+.center-img {
+  margin: auto;
+  padding: auto; }
 
 .active {
   color: black;

@@ -2,7 +2,27 @@
 body, nav {
   background-color: white; }
 
+ul {
+  display: inline;
+  padding: 10px; }
+
+li {
+  background-color: black;
+  color: white;
+  padding: 12px;
+  width: 170px;
+  font-size: 1.2em; }
+
 /* LAYOUT */
+.main-photo {
+  width: 450px;
+  height: auto; }
+
 /* MODULE */
 /* STATE */
 /* THEME */
+/* HAMBURGER ICON */
+.icon-bar {
+  background-color: #000 !important; }
+
+/* END OF HAMBURGER ICON */

@@ -7,7 +7,24 @@ body, nav {
 	background-color:$main-color2;
 }
 
+ul {
+	display: inline;
+	padding: 10px;
+}
+
+li {
+	background-color: $main-color;
+	color: $main-color2;
+	padding: 12px;
+	width: 170px;
+	font-size: 1.2em;
+}
 /* LAYOUT */ 
+
+.main-photo { 
+	width: 450px; 
+	height: auto;
+}
 
 
 /* MODULE */ 
@@ -17,3 +34,9 @@ body, nav {
 
 
 /* THEME */ 
+
+/* HAMBURGER ICON */
+.icon-bar {
+   background-color:#000 !important;
+}
+/* END OF HAMBURGER ICON */

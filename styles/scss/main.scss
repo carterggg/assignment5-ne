@@ -21,40 +21,38 @@ li {
 	width: 100%;    /* 170px */
 	font-family: 'monacoregular';
 	font-size: 1.2em;
+}
+
+a {
 	text-decoration: none;
 }
 
 /* unvisited link */
 a:link {
-	text-decoration: none;
-    background-color: $main-color;
+	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* visited link */
 a:visited {
-	text-decoration: none;
-    background-color: $main-color;
+	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* mouse over link */
 a:hover {
-	text-decoration: none;
-    background-color: $main-color2;
+	background-color: $main-color2;
 	color: $main-color;
 }
 
 /* selected link */
 a:active {
-	text-decoration: none;
-    background-color: $main-color;
+	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* mouse over li */
 li:hover {
-	text-decoration: none;
     background-color: $main-color2;
 	color: $main-color;
 }
@@ -92,6 +90,9 @@ li:hover {
 	background-color: $main-color2;
 }
 
+.block-level {
+	display:inline;
+}
 /* MODULE */ 
 
 

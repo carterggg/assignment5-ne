@@ -14,36 +14,33 @@ li {
   width: 100%;
   /* 170px */
   font-family: 'monacoregular';
-  font-size: 1.2em;
+  font-size: 1.2em; }
+
+a {
   text-decoration: none; }
 
 /* unvisited link */
 a:link {
-  text-decoration: none;
   background-color: black;
   color: white; }
 
 /* visited link */
 a:visited {
-  text-decoration: none;
   background-color: black;
   color: white; }
 
 /* mouse over link */
 a:hover {
-  text-decoration: none;
   background-color: white;
   color: black; }
 
 /* selected link */
 a:active {
-  text-decoration: none;
   background-color: black;
   color: white; }
 
 /* mouse over li */
 li:hover {
-  text-decoration: none;
   background-color: white;
   color: black; }
 
@@ -70,6 +67,9 @@ li:hover {
 .active {
   color: black;
   background-color: white; }
+
+.block-level {
+  display: inline; }
 
 /* MODULE */
 /* STATE */

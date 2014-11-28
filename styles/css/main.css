@@ -60,6 +60,9 @@ li:hover {
 .align-right {
   text-align: right; }
 
+.align-center {
+  text-align: center; }
+
 .center-img {
   margin: auto;
   padding: auto; }

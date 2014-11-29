@@ -15,19 +15,6 @@ ul {
 }
 
 
-li {
-	background-color: $main-color;
-	color: $main-color2;
-	padding: 12px;
-	margin: 4px;
-	width: 100%;    /* 170px */
-	font-family: 'monacoregular';
-	font-size: 1.2em;
-}
-
-
-
-
 /* unvisited link */
 a:link {
 	text-decoration: none;
@@ -67,6 +54,16 @@ li:hover {
 
 /* LAYOUT */ 
 
+.main-nav {
+	background-color: $main-color;
+	color: $main-color2;
+	padding: 12px;
+	margin: 4px;
+	width: 100%;    /* 170px */
+	font-family: 'monacoregular';
+	font-size: 1.2em;
+}
+
 .main-logo {
 	height:200px;
 	width: auto;
@@ -96,6 +93,11 @@ li:hover {
 	
 }
 
+.fixed-nav {
+	position: fixed;
+	width: 15%;
+}
+
 .active {
 	color: $main-color;
 	background-color: $main-color2;
@@ -109,6 +111,11 @@ li:hover {
 .underlined {
 	border-bottom: solid black 5px;
 }
+
+.center-pagination {
+	text-align:center;
+}
+
 /* MODULE */ 
 
 
@@ -132,10 +139,3 @@ li:hover {
 }
 
 /* END OF FONT STYLE */
-
-
-/* HAMBURGER ICON */
-.icon-bar {
-   background-color:#000 !important;
-}
-/* END OF HAMBURGER ICON */

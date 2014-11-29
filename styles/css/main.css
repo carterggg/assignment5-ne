@@ -7,16 +7,6 @@ ul {
   padding: 10px;
   list-style: none; }
 
-li {
-  background-color: black;
-  color: white;
-  padding: 12px;
-  margin: 4px;
-  width: 100%;
-  /* 170px */
-  font-family: 'monacoregular';
-  font-size: 1.2em; }
-
 /* unvisited link */
 a:link {
   text-decoration: none;
@@ -48,6 +38,16 @@ li:hover {
   color: black; }
 
 /* LAYOUT */
+.main-nav {
+  background-color: black;
+  color: white;
+  padding: 12px;
+  margin: 4px;
+  width: 100%;
+  /* 170px */
+  font-family: 'monacoregular';
+  font-size: 1.2em; }
+
 .main-logo {
   height: 200px;
   width: auto; }
@@ -71,6 +71,10 @@ li:hover {
   margin: auto;
   padding: auto; }
 
+.fixed-nav {
+  position: fixed;
+  width: 15%; }
+
 .active {
   color: black;
   background-color: white; }
@@ -80,6 +84,9 @@ li:hover {
 
 .underlined {
   border-bottom: solid black 5px; }
+
+.center-pagination {
+  text-align: center; }
 
 /* MODULE */
 /* STATE */
@@ -92,8 +99,3 @@ li:hover {
   font-weight: normal;
   font-style: normal; }
 /* END OF FONT STYLE */
-/* HAMBURGER ICON */
-.icon-bar {
-  background-color: #000 !important; }
-
-/* END OF HAMBURGER ICON */

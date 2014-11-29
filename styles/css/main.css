@@ -48,6 +48,10 @@ li:hover {
   color: black; }
 
 /* LAYOUT */
+.main-logo {
+  height: 200px;
+  width: auto; }
+
 .main-photo {
   width: 450px;
   height: auto;
@@ -73,9 +77,6 @@ li:hover {
 
 .block-level {
   display: inline; }
-
-.mobile-nav ul li a {
-  text-decoration: none; }
 
 /* MODULE */
 /* STATE */

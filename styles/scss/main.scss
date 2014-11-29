@@ -11,6 +11,7 @@ body, nav {
 ul {
 	display: inline;
 	padding: 10px;
+	list-style: none;
 }
 
 li {
@@ -23,36 +24,39 @@ li {
 	font-size: 1.2em;
 }
 
-a {
-	text-decoration: none;
-}
+
 
 /* unvisited link */
 a:link {
+	text-decoration: none;
 	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* visited link */
 a:visited {
+	text-decoration: none;
 	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* mouse over link */
 a:hover {
+	text-decoration: none;
 	background-color: $main-color2;
 	color: $main-color;
 }
 
 /* selected link */
 a:active {
+	text-decoration: none;
 	background-color: $main-color;
 	color: $main-color2;
 }
 
 /* mouse over li */
 li:hover {
+	text-decoration: none;
     background-color: $main-color2;
 	color: $main-color;
 }
@@ -92,6 +96,11 @@ li:hover {
 
 .block-level {
 	display:inline;
+	
+}
+
+.mobile-nav ul li a {
+	text-decoration: none;
 }
 /* MODULE */ 
 

@@ -29,6 +29,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/fonts\/stylesheet.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -38,13 +49,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/designs\/3precioushumanbeeing-NE.png": {
+	"\/images\/designs\/alienhead.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.99472e+06,
-		"inputAbbreviatedPath": "\/images\/designs\/3precioushumanbeeing-NE.png",
-		"outputAbbreviatedPath": "\/images\/designs\/3precioushumanbeeing-NE.png",
+		"initialSize": 4337,
+		"inputAbbreviatedPath": "\/images\/designs\/alienhead.png",
+		"outputAbbreviatedPath": "\/images\/designs\/alienhead.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -78,6 +89,17 @@
 		"initialSize": 245639,
 		"inputAbbreviatedPath": "\/images\/designs\/dadboat.png",
 		"outputAbbreviatedPath": "\/images\/designs\/dadboat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/dearshirt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.99472e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/dearshirt.png",
+		"outputAbbreviatedPath": "\/images\/designs\/dearshirt.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -122,6 +144,17 @@
 		"initialSize": 1.77008e+06,
 		"inputAbbreviatedPath": "\/images\/designs\/multi4.jpg",
 		"outputAbbreviatedPath": "\/images\/designs\/multi4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/multiboltz.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 744221,
+		"inputAbbreviatedPath": "\/images\/designs\/multiboltz.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/multiboltz.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

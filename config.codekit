@@ -38,57 +38,233 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/logo\/NE-logo-01.jpg": {
-		"fileType": 16384,
+	"\/images\/designs\/3precioushumanbeeing-NE.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 962733,
-		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-01.jpg",
-		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-01.jpg",
+		"initialSize": 1.99472e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/3precioushumanbeeing-NE.png",
+		"outputAbbreviatedPath": "\/images\/designs\/3precioushumanbeeing-NE.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/logo\/NE-logo-01.png": {
+	"\/images\/designs\/concept.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335828,
+		"inputAbbreviatedPath": "\/images\/designs\/concept.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/concept.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/dadboat.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556312,
+		"inputAbbreviatedPath": "\/images\/designs\/dadboat.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/dadboat.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/dadboat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245639,
+		"inputAbbreviatedPath": "\/images\/designs\/dadboat.png",
+		"outputAbbreviatedPath": "\/images\/designs\/dadboat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/imnotreal-NE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278960,
+		"inputAbbreviatedPath": "\/images\/designs\/imnotreal-NE.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/imnotreal-NE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/L8nightnightmirrors-NE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.1689e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/L8nightnightmirrors-NE.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/L8nightnightmirrors-NE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/mircowavvy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291635,
+		"inputAbbreviatedPath": "\/images\/designs\/mircowavvy.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/mircowavvy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/multi4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.77008e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/multi4.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/multi4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/multilady.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 675388,
+		"inputAbbreviatedPath": "\/images\/designs\/multilady.png",
+		"outputAbbreviatedPath": "\/images\/designs\/multilady.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/multivisionlady.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 675437,
+		"inputAbbreviatedPath": "\/images\/designs\/multivisionlady.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/multivisionlady.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/nightmirrors.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201872,
+		"inputAbbreviatedPath": "\/images\/designs\/nightmirrors.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/nightmirrors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/nightmirrors.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83704,
+		"inputAbbreviatedPath": "\/images\/designs\/nightmirrors.png",
+		"outputAbbreviatedPath": "\/images\/designs\/nightmirrors.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/ship1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1073,
+		"inputAbbreviatedPath": "\/images\/designs\/ship1.png",
+		"outputAbbreviatedPath": "\/images\/designs\/ship1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/ship2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1145,
+		"inputAbbreviatedPath": "\/images\/designs\/ship2.png",
+		"outputAbbreviatedPath": "\/images\/designs\/ship2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/surelyunsure-ne.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/designs\/surelyunsure-ne.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/surelyunsure-ne.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/tat.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.01356e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/tat.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/tat.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/thisisadream-ne.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 448357,
+		"inputAbbreviatedPath": "\/images\/designs\/thisisadream-ne.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/thisisadream-ne.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/wavvydesign.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.1365e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/wavvydesign.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/wavvydesign.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/yoooo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.15356e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/yoooo.png",
+		"outputAbbreviatedPath": "\/images\/designs\/yoooo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ne-logo-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 138591,
-		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-01.png",
-		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-01.png",
+		"inputAbbreviatedPath": "\/images\/logo\/ne-logo-01.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ne-logo-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/logo\/NE-logo-02.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 839813,
-		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-02.jpg",
-		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-02.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/logo\/NE-logo-02.png": {
+	"\/images\/logo\/ne-logo-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 77669,
-		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-02.png",
-		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-02.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/logo\/NE-logo-03.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.40017e+06,
-		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-03.jpg",
-		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-03.jpg",
+		"inputAbbreviatedPath": "\/images\/logo\/ne-logo-02.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ne-logo-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -100,6 +276,17 @@
 		"initialSize": 269896,
 		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-03.png",
 		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ne-comic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.23734e+06,
+		"inputAbbreviatedPath": "\/images\/ne-comic.png",
+		"outputAbbreviatedPath": "\/images\/ne-comic.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -167,6 +354,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/news.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/news.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/shop.html": {
 		"fileType": 8192,

@@ -2,6 +2,7 @@ $main-color: black;
 $main-color2: white;
 $main-font: 'monacoregular';
 
+
 /* BASE */ 
 
 body, nav {
@@ -54,6 +55,10 @@ li:hover {
 
 /* LAYOUT */ 
 
+.top_space {
+	height: 200px;
+}
+
 .main-nav {
 	background-color: $main-color;
 	color: $main-color2;
@@ -76,8 +81,9 @@ li:hover {
 	padding: auto;
 }
 
-.top_space {
-	height: 200px;
+.fixed-nav {
+	position: fixed;
+	width: 15%;
 }
 
 .align-right {
@@ -90,26 +96,6 @@ li:hover {
 .center-img {
 	margin: auto;
 	padding: auto;
-	
-}
-
-.fixed-nav {
-	position: fixed;
-	width: 15%;
-}
-
-.active {
-	color: $main-color;
-	background-color: $main-color2;
-}
-
-.block-level {
-	display:inline;
-	
-}
-
-.underlined {
-	border-bottom: solid black 5px;
 }
 
 .center-pagination {
@@ -129,14 +115,23 @@ li:hover {
 	padding: auto;
 }
 
+.active {
+	color: $main-color;
+	background-color: $main-color2;
+}
+
+.block-level {
+	display:inline;
+}
+
+.underlined {
+	border-bottom: solid black 5px;
+}
+
 
 
 /* MODULE */ 
-
-
 /* STATE */ 
-
-
 /* THEME */ 
 
 /* FONT STYLE */

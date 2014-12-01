@@ -1,1 +1,1 @@
-$(".toggle").click(function(){$(this).next().fadeToggle("slow"),$(".contact-info").toggleClass("hidden")});
+$(".toggle").click(function(){$(this).next().fadeToggle("slow"),$(".toggle-info").toggleClass("hidden")});

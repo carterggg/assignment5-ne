@@ -4,6 +4,6 @@
 
 $('.toggle').click(function(){
 	$(this).next().fadeToggle('slow');
-	$(".contact-info").toggleClass("hidden");
+	$(".toggle-info").toggleClass("hidden");
 
 });

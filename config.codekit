@@ -49,6 +49,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/designs\/apistolperfect.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.51658e+07,
+		"inputAbbreviatedPath": "\/images\/designs\/apistolperfect.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/apistolperfect.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/designs\/concept.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -78,6 +89,17 @@
 		"initialSize": 245639,
 		"inputAbbreviatedPath": "\/images\/designs\/dadboat.png",
 		"outputAbbreviatedPath": "\/images\/designs\/dadboat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/dearhumanshirt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.99472e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/dearhumanshirt.png",
+		"outputAbbreviatedPath": "\/images\/designs\/dearhumanshirt.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -181,6 +203,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/designs\/ne-face.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 962733,
+		"inputAbbreviatedPath": "\/images\/designs\/ne-face.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/ne-face.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/designs\/nightmirrors.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -221,6 +254,17 @@
 		"initialSize": 1145,
 		"inputAbbreviatedPath": "\/images\/designs\/ship2.png",
 		"outputAbbreviatedPath": "\/images\/designs\/ship2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/designs\/superstarfanclub.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.15356e+06,
+		"inputAbbreviatedPath": "\/images\/designs\/superstarfanclub.png",
+		"outputAbbreviatedPath": "\/images\/designs\/superstarfanclub.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -269,24 +313,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/designs\/yoooo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.15356e+06,
-		"inputAbbreviatedPath": "\/images\/designs\/yoooo.png",
-		"outputAbbreviatedPath": "\/images\/designs\/yoooo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/logo\/ne-logo-01.png": {
+	"\/images\/logo\/NE-logo-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 138591,
-		"inputAbbreviatedPath": "\/images\/logo\/ne-logo-01.png",
-		"outputAbbreviatedPath": "\/images\/logo\/ne-logo-01.png",
+		"inputAbbreviatedPath": "\/images\/logo\/NE-logo-01.png",
+		"outputAbbreviatedPath": "\/images\/logo\/NE-logo-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

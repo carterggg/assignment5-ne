@@ -91,6 +91,9 @@ li:hover {
 .right-sidebar {
   background-image: url(images/ne-comic.png); }
 
+.contact-info {
+  display: none; }
+
 /* MODULE */
 /* STATE */
 /* THEME */

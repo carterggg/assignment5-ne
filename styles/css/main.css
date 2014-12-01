@@ -94,6 +94,10 @@ li:hover {
 .toggle-info {
   display: none; }
 
+.centered-gallery {
+  margin: auto;
+  padding: auto; }
+
 /* MODULE */
 /* STATE */
 /* THEME */

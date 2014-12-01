@@ -9,10 +9,55 @@
 <link rel="stylesheet" href="styles/css/main.css">
 <script src="js/bootstrap.min.js"></script>
 
+<!-- LIGHTBOX links -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="styles/css/blueimp-gallery.css">
+<link rel="stylesheet" href="styles/css/bootstrap-image-gallery.css">
+<!-- END OF LIGHTBOX links -->
+
 
 </head>
 
 <body>
+
+<!-- LIGHTBOX controls -->
+    
+   
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+    <div class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title"></h4>
+                </div>
+                <div class="modal-body next"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left prev">
+                        <i class="glyphicon glyphicon-chevron-left"></i>
+                        Previous
+                    </button>
+                    <button type="button" class="btn btn-primary next">
+                        Next
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END OF LIGHTBOX controls -->
+
 <!-- Website content -->
 
 <div class="container-fluid">
@@ -78,8 +123,35 @@
 <!-- Main Content Column -->		
 			<div class="col-xs-12 col-sm-9">
 				<br>
-					<h1 class="underlined">WINTER COLLECTION 14'</h1>
+					<h1 class="toggle underlined">WINTER COLLECTION 14' +</h1>
 					
+				<div  class="toggle-info centered-gallery">
+					<br>
+					
+						<a href="images/designs/L8nightnightmirrors-NE.jpg" title="Nightmirrors" data-gallery>
+        				<img src="images/designs/L8nightnightmirrors-NE.jpg" width="300" alt="Nightmirrors">
+    					</a>
+    					
+    					<a href="images/designs/ne-comic.jpg" title="C0MIC" data-gallery>
+        				<img src="images/designs/ne-comic.jpg" width="400" alt="Nothing Extravagant-Comic">
+    					</a>
+    					
+    					<a href="images/designs/multivisionlady.jpg" title="Multivision" data-gallery>
+        				<img src="images/designs/multivisionlady.jpg" width="280" alt="Nothing Extravagant-Multivision">
+    					</a>
+    					
+    					<a href="images/designs/L8nightnightmirrors-NE.jpg" title="Nightmirrors" data-gallery>
+        				<img src="images/designs/L8nightnightmirrors-NE.jpg" width="300" alt="Nightmirrors">
+    					</a>
+    					
+    					<a href="images/designs/L8nightnightmirrors-NE.jpg" title="Nightmirrors" data-gallery>
+        				<img src="images/designs/L8nightnightmirrors-NE.jpg" width="300" alt="Nightmirrors">
+    					</a>
+				
+				</div><!-- END OF toggle-info -->
+				
+				
+				
 				
 				
 				
@@ -115,6 +187,10 @@
     <script src="js/bootstrap.min.js">
     </script>
     
+
+<!-- Gallery Links -->
+    <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+	<script src="js/bootstrap-image-gallery.min.js"></script>
     
 </body>
 </html>

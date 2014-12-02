@@ -7,6 +7,8 @@ $main-font: 'monacoregular';
 
 body, nav {
 	background-color:$main-color2;
+	font-family: 'monacoregular';
+	
 }
 
 ul {
@@ -134,18 +136,3 @@ li:hover {
 /* STATE */ 
 /* THEME */ 
 
-/* FONT STYLE */
-
-@font-face {
-    font-family: 'monacoregular';
-    src: url('fonts/monaco-webfont.eot');
-    src: url('fonts/monaco-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/monaco-webfont.woff2') format('woff2'),
-         url('fonts/monaco-webfont.woff') format('woff'),
-         url('fonts/monaco-webfont.ttf') format('truetype'),
-         url('fonts/monaco-webfont.svg#monacoregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* END OF FONT STYLE */

@@ -102,3 +102,16 @@ li:hover {
 /* MODULE */
 /* STATE */
 /* THEME */
+/* FORM */
+input, textarea, label {
+  display: block;
+  margin-bottom: 15px; }
+
+label {
+  margin-bottom: 0px; }
+
+.error {
+  color: blue; }
+
+form {
+  width: 100%; }

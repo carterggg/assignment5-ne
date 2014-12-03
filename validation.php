@@ -81,7 +81,7 @@ if(@$_POST['submitted'])
 		{
 		
 			// test to see if form data is received.
-			echo "<h1>Thank You! Nothing Extravagant will get back to you soon!</h1>";
+			echo "<h2>Thank You! Nothing Extravagant will get back to you soon!</h2>";
 			echo "<p>Your message has been sent. Below is the info you provided:</p>";
 			echo "<ul>";
 			echo "<li>".$name."</li>";

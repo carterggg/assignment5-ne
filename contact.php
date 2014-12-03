@@ -55,17 +55,7 @@
 			<br>
 			<img src="images/menu-icon.png" width="50px" align="right" class="toggle" alt="nothing extravagant menu"> 
 			
-			<nav class="mobile-nav toggle-info">
-				<ul> <br><br><br>
-				 <li class="main-nav"><a href="news.html">NEWS</a></li>
-					<li class="main-nav"><a href="designs.html">DESIGNS</a></li>	
-					<li class="main-nav"><a href="about.html">AB0UT</a></li>
-					<li class="main-nav"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
-					<li class="main-nav"><a href="contact.html">C0NTACT</a></li>
-					<li class="main-nav"><a href="http://instagram.com/Nothingextravagant">INSTAGRAM</a></li>
-					<li class="main-nav"><a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517">FACEB00K</a></li>
-				</ul>
-			</nav>
+			<?php include('inc/mobilenav.php'); ?>
 			
 		</div><!-- END OF column -->
 		
@@ -88,15 +78,9 @@
 
 		<div class="hidden-xs col-sm-2">
 <!-- Tablet/Desktop Nav Bar -->		
-			<nav class="fixed-nav">
-				<ul>
-				 <li class="main-nav"><a href="news.html">NEWS</a></li>
-					<li class="main-nav"><a href="designs.html">DESIGNS</a></li>	
-					<li class="main-nav"><a href="about.html">AB0UT</a></li>	
-					<li class="main-nav"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
-					<li class="active main-nav"><a href="contact.html">C0NTACT</a></li>
-				</ul>
-				</nav>
+			
+			<?php include('inc/mainnav.php'); ?>
+			
 <!-- END OF Tablet/Desktop Nav Bar -->				
 		</div><!-- END OF column -->
 			

@@ -5,7 +5,7 @@
 	define('MESSAGE_SUBJECT','Nothing Extravagant Subject');
 	define('REPLY_TO', 'nothingextravagant@gmail.com');
 	define('FROM_ADDRESS', 'nothingextravagant@gmail.com');
-	define('REDIRECT_URL', 'http://www.boltzonboard.com');
+	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
 
@@ -127,23 +127,10 @@
 				<p><i>Random Questions? Wholesale? Design Ideas? Collabs? Returns?</i></p>
 				<br>
 				
-<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-			<fieldset>
-				<p>
-					<label for="name">Name:</label><?php echo @$name_error; ?>
-					<input type="text" id="name" name="name" value="<?php echo @$name ?>" class="required" />
-				</p>
-				<p>
-					<label for="email">Email:</label><?php echo @$email_error; ?>
-					<input type="text" id="email" name="email" value="<?php echo @$email ?>" class="email required" />
-				</p>
-				<p>
-					<label for="message">Message:</label><?php echo @$message_error; ?>
-					<textarea cols="45" rows="7" id="message" name="message" class="required"><?php echo @$message ?></textarea>
-				</p>
-				<input name="submitted" type="submit" value="Send" />
-			</fieldset>
-		</form>
+
+			<?php include('inc/form.php'); ?>
+			
+			<br><br><br>
 				
 				
 				

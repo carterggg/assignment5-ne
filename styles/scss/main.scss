@@ -7,8 +7,12 @@ $main-font: 'monacoregular';
 
 body, nav {
 	background-color:$main-color2;
-	font-family: 'monacoregular';
+	font-family:$main-font;
 	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:$main-font;
 }
 
 ul {
@@ -128,6 +132,8 @@ li:hover {
 
 .underlined {
 	border-bottom: solid black 5px;
+	font-weight: bold;
+	font-family:$main-font;
 }
 
 
@@ -138,14 +144,15 @@ li:hover {
 
 
 /* FORM */
-input,textarea,label {
+input,textarea {
 	display:block;
 	margin-bottom: 15px;
-	
+	width: 100%;
+	border: black solid 1px;
 }
 
 label {
-	margin-bottom: 0px;
+	margin-bottom: 0px;	
 }
 
 .error{

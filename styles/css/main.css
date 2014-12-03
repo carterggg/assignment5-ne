@@ -1,7 +1,10 @@
 /* BASE */
 body, nav {
   background-color: white;
-  font-family: 'monacoregular'; }
+  font-family: "monacoregular"; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "monacoregular"; }
 
 ul {
   display: inline;
@@ -97,15 +100,19 @@ li:hover {
   display: inline; }
 
 .underlined {
-  border-bottom: solid black 5px; }
+  border-bottom: solid black 5px;
+  font-weight: bold;
+  font-family: "monacoregular"; }
 
 /* MODULE */
 /* STATE */
 /* THEME */
 /* FORM */
-input, textarea, label {
+input, textarea {
   display: block;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 1px; }
 
 label {
   margin-bottom: 0px; }

@@ -51,7 +51,7 @@
 	
 <!-- Mobile Nav Bar -->
 					
-			<div class="hidden-sm hidden-md hidden-lg col-xs-12">
+			<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 			<br>
 			<img src="images/menu-icon.png" width="50px" align="right" class="toggle" alt="nothing extravagant menu"> 
 			
@@ -60,7 +60,7 @@
 				 <li class="main-nav"><a href="news.html">NEWS</a></li>
 					<li class="main-nav"><a href="designs.html">DESIGNS</a></li>	
 					<li class="main-nav"><a href="about.html">AB0UT</a></li>
-					<li class="main-nav"><a href="http://nothingextravagant.bigcartel.com/">SH0P</a></li>
+					<li class="main-nav"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
 					<li class="main-nav"><a href="contact.html">C0NTACT</a></li>
 					<li class="main-nav"><a href="http://instagram.com/Nothingextravagant">INSTAGRAM</a></li>
 					<li class="main-nav"><a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517">FACEB00K</a></li>
@@ -87,15 +87,17 @@
 	<div class="row">
 
 		<div class="hidden-xs col-sm-2">
+<!-- Tablet/Desktop Nav Bar -->		
 			<nav class="fixed-nav">
 				<ul>
 				 <li class="main-nav"><a href="news.html">NEWS</a></li>
 					<li class="main-nav"><a href="designs.html">DESIGNS</a></li>	
 					<li class="main-nav"><a href="about.html">AB0UT</a></li>	
-					<li class="main-nav"><a href="shop.html">SH0P</a></li>
+					<li class="main-nav"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
 					<li class="active main-nav"><a href="contact.html">C0NTACT</a></li>
 				</ul>
 				</nav>
+<!-- END OF Tablet/Desktop Nav Bar -->				
 		</div><!-- END OF column -->
 			
 
@@ -119,6 +121,10 @@
 
 <!-- Main Content Column -->		
 			<div class="col-xs-12 col-sm-6">
+				<br>
+				
+				<h1 class="underlined">C0NTACT NE</h1>
+				<p><i>Random Questions? Wholesale? Design Ideas? Collabs? Returns?</i></p>
 				<br>
 				
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
@@ -177,21 +183,14 @@
 
 <!-- jQuery -->
    
-<script src="js/jquery-2.1.1.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="js/main.js"></script>
-   
-   <script>
+<script>
       $(document).foundation();
-    </script>
-	  
-   
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js">
-    </script>
-    
-    <script src="assets/vender/intl-tel-input/js/intlTelInput.min.js"></script>
-    <script src="assets/js/contact-form.js"></script>
+</script>
+<script src="js/bootstrap.min.js"></script>
+<script src="assets/vender/intl-tel-input/js/intlTelInput.min.js"></script>
+<script src="assets/js/contact-form.js"></script>
     
     
 </body>

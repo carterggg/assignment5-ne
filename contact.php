@@ -90,8 +90,8 @@
 	
 		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 				<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
-			<h4 class="toggle underlined">EMAIL +</h4>
-				<p class="toggle-info">nothingextravagant@gmail.com</p>
+			<h4 class="toggle2 underlined">EMAIL +</h4>
+				<p class="toggle-info2">nothingextravagant@gmail.com</p>
 				
 				<h4 class="toggle underlined">INSTAGRAM +</h4>
 				<a href="http://instagram.com/Nothingextravagant" class="toggle-info">@nothingextravagant</a>

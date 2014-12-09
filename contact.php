@@ -53,9 +53,9 @@
 					
 			<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 			<br>
-			<img src="images/menu-icon.png" width="50px" align="right" class="toggle" alt="nothing extravagant menu"> 
+			<img src="images/menu-icon.png" width="50px" align="right" class="toggle-nav" alt="nothing extravagant menu"> 
 			
-			<?php include('inc/mobilenav.php'); ?>
+			<?php include('inc/mobilenav.inc.php'); ?>
 			
 		</div><!-- END OF column -->
 		
@@ -79,7 +79,7 @@
 		<div class="hidden-xs col-sm-2">
 <!-- Tablet/Desktop Nav Bar -->		
 			
-			<?php include('inc/mainnav.php'); ?>
+			<?php include('inc/mainnav.inc.php'); ?>
 			
 <!-- END OF Tablet/Desktop Nav Bar -->				
 		</div><!-- END OF column -->
@@ -90,14 +90,14 @@
 	
 		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 				<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
-			<h4 class="toggle2 underlined">EMAIL +</h4>
-				<p class="toggle-info2">nothingextravagant@gmail.com</p>
+			<h4 class="toggle underlined">EMAIL +</h4>
+				<p>nothingextravagant@gmail.com</p>
 				
-				<h4 class="toggle underlined">INSTAGRAM +</h4>
-				<a href="http://instagram.com/Nothingextravagant" class="toggle-info">@nothingextravagant</a>
+			<h4 class="toggle underlined">INSTAGRAM +</h4>
+				<a href="http://instagram.com/Nothingextravagant">@nothingextravagant</a>
 				
-				<h4 class="toggle underlined">FACEB00K +</h4>
-				<a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517" class="toggle-info">www.facebook.com/pages/Nothing-Extravagant/718067788289517</a>
+			<h4 class="toggle underlined">FACEB00K +</h4>
+				<a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517">www.facebook.com/pages/Nothing-Extravagant/718067788289517</a>
 				</div><!-- END OF column -->
 						
 <!-- END OF Contact Toggle Info for Mobile -->	

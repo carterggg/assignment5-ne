@@ -1,1 +1,1 @@
-$(".toggle").click(function(){$(this).next().slideToggle("slow")}),$(".toggle-nav").click(function(){$(".toggle-info").slideToggle("slow")});
+$(".toggle").click(function(){$(this).next().slideToggle("slow")}),$(".toggle-nav").click(function(){$(".toggle-info").slideToggle("slow")}),$(document).ready(function(){$(".more").click(function(o){o.preventDefault(),$(".dynamic").load("content/blog-content.html"),$(this).remove()})});

@@ -8,7 +8,6 @@ $main-font: 'monacoregular';
 body, nav {
 	background-color:$main-color2;
 	font-family:$main-font;
-	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,35 +20,6 @@ ul {
 	list-style: none;
 }
 
-
-/* unvisited link */
-a:link {
-	text-decoration: none;
-	background-color: $main-color;
-	color: $main-color2;
-}
-
-/* visited link */
-a:visited {
-	text-decoration: none;
-	background-color: $main-color;
-	color: $main-color2;
-}
-
-/* mouse over link */
-a:hover {
-	text-decoration: none;
-	background-color: $main-color2;
-	color: $main-color;
-}
-
-/* selected link */
-a:active {
-	text-decoration: none;
-	background-color: $main-color;
-	color: $main-color2;
-}
-
 /* mouse over li */
 li:hover {
 	text-decoration: none;
@@ -57,9 +27,66 @@ li:hover {
 	color: $main-color;
 }
 
+/* .nav-a unvisited link */
+p a:link {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a visited link */
+p a:visited {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a mouse over link */
+p a:hover {
+	text-decoration: none;
+	background-color: $main-color2;
+	color: $main-color;
+}
+
+/* .nav-a selected link */
+p a:active {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
 
 
 /* LAYOUT */ 
+
+
+/* .nav-a unvisited link */
+.nav-a a:link {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a visited link */
+.nav-a a:visited {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a mouse over link */
+.nav-a a:hover {
+	text-decoration: none;
+	background-color: $main-color2;
+	color: $main-color;
+}
+
+/* .nav-a selected link */
+.nav-a a:active {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
 
 .top_space {
 	height: 200px;

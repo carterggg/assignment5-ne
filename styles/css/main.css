@@ -11,37 +11,61 @@ ul {
   padding: 10px;
   list-style: none; }
 
-/* unvisited link */
-a:link {
-  text-decoration: none;
-  background-color: black;
-  color: white; }
-
-/* visited link */
-a:visited {
-  text-decoration: none;
-  background-color: black;
-  color: white; }
-
-/* mouse over link */
-a:hover {
-  text-decoration: none;
-  background-color: white;
-  color: black; }
-
-/* selected link */
-a:active {
-  text-decoration: none;
-  background-color: black;
-  color: white; }
-
 /* mouse over li */
 li:hover {
   text-decoration: none;
   background-color: white;
   color: black; }
 
+/* .nav-a unvisited link */
+p a:link {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a visited link */
+p a:visited {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a mouse over link */
+p a:hover {
+  text-decoration: none;
+  background-color: white;
+  color: black; }
+
+/* .nav-a selected link */
+p a:active {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
 /* LAYOUT */
+/* .nav-a unvisited link */
+.nav-a a:link {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a visited link */
+.nav-a a:visited {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a mouse over link */
+.nav-a a:hover {
+  text-decoration: none;
+  background-color: white;
+  color: black; }
+
+/* .nav-a selected link */
+.nav-a a:active {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
 .top_space {
   height: 200px; }
 

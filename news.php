@@ -146,7 +146,7 @@
 				<div class="fb-share-button" data-href="http://www.youtube.com/embed/Z2BoqTyPnPs" data-layout="button">
 				</div>
 				
-				<a href ="content/blog-page1.html">See more post...</a>
+				<a href ="content/blog-page1.html">Check out ...</a>
 		  			<div class="dynamic"></div>
 					
 					

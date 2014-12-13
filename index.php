@@ -19,7 +19,7 @@
 <!-- MOBILE LOGO -->
 	<div class="row">
 		<div class="hidden-sm hidden-md hidden-lg col-xs-12">
-			<a href="index.html"><img src="images/logo/ne-logo.gif" class="img-responsive main-photo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo.gif" class="img-responsive main-photo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 	</div><!-- END OF row -->
 <!-- END OF MOBILE LOGO -->

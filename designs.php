@@ -69,7 +69,7 @@
 			<div class="hidden-xs col-sm-4"></div>
 			
 		<div class="hidden-xs col-sm-4">
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 		
 			<div class="hidden-xs col-sm-4"></div>
@@ -96,7 +96,7 @@
 	<div class="row">
 		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 		<br>
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 	</div><!-- END OF row -->
 <!--END OF MOBILE LOGO -->	

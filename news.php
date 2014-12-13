@@ -24,7 +24,7 @@
 	<div class="row">
 			<div class="hidden-xs col-sm-4"></div>
 		<div class="hidden-xs col-sm-4">
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 		
 			<div class="hidden-xs col-sm-4"></div>
@@ -53,7 +53,7 @@
 	<div class="row">
 		<div class="hidden-sm hidden-md hidden-lg col-xs-12">
 		<br>
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 	</div><!-- END OF row -->
 <!--END OF MOBILE LOGO -->
@@ -85,9 +85,6 @@
 				
 				<div class="blog-post">
 				
-				<!-- <a href ="content/content.html" class="more">See more post...</a>
-		  				<div class="dynamic"></div> -->
-					
 					<h2>Jason Guthrie Footage</h2>
 						<h6><i>Posted November 29th, 2014</i></h6>
 							<p>Skateboarding footage from 1991-92, check it out! Worth the watch.</p>
@@ -149,6 +146,11 @@
 				<div class="fb-share-button" data-href="http://www.youtube.com/embed/Z2BoqTyPnPs" data-layout="button">
 				</div>
 				
+				<a href ="content/blog-page1.html">See more post...</a>
+		  			<div class="dynamic"></div>
+					
+					
+				
 				</div><!-- END OF blog-post --><hr>
 				
 				
@@ -197,7 +199,7 @@
 				<br><br>
 				
 				<a href="#"><img src="images/designs/dearshirt.png"  width="250px" alt="dear nothing extravagant shirt design"></a>
-				<a href="#"><img src="images/designs/L8nightnightmirrors-ne.jpg"  width="250px" alt="L8 Night Nightmirrors - nothing extravagant shirt design"></a>
+				<a href="#"><img src="images/designs/l8nightnightmirrors-ne.jpg"  width="250px" alt="L8 Night Nightmirrors - nothing extravagant shirt design"></a>
 				
 				</div>
 			</div><!-- END OF column -->

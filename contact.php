@@ -5,7 +5,7 @@
 	define('MESSAGE_SUBJECT','Nothing Extravagant Subject');
 	define('REPLY_TO', 'nothingextravagant@gmail.com');
 	define('FROM_ADDRESS', 'nothingextravagant@gmail.com');
-	define('REDIRECT_URL', 'index.html');
+	define('REDIRECT_URL', 'index.php');
 	
 	require_once('validation.php');
 
@@ -42,7 +42,7 @@
 	<div class="row">
 			<div class="hidden-xs col-sm-4"></div>
 		<div class="hidden-xs col-sm-4">
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
 		</div><!-- END OF column -->
 		
 			<div class="hidden-xs col-sm-4"></div>
@@ -69,7 +69,7 @@
 	<div class="row">
 		<div class="hidden-sm hidden-md hidden-lg col-xs-12">
 		<br>
-			<a href="index.html"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
+			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
 			<br>
 		</div><!-- END OF column -->
 	</div><!-- END OF row -->

@@ -54,8 +54,12 @@
 			<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 			<br>
 			<img src="images/menu-icon.png" width="50px" align="right" class="toggle-nav" alt="nothing extravagant menu"> 
+				<nav class="mobile-nav toggle-info">
+				<ul> <br><br><br>
+				 	<?php include('inc/mobilenav.inc.php'); ?>
+				</ul>
+			</nav>
 			
-			<?php include('inc/mobilenav.inc.php'); ?>
 			
 		</div><!-- END OF column -->
 		
@@ -79,7 +83,12 @@
 		<div class="hidden-xs col-sm-2">
 <!-- Tablet/Desktop Nav Bar -->		
 			
-			<?php include('inc/mainnav.inc.php'); ?>
+			<nav class="fixed-nav">
+				<ul>
+				 	<?php include('inc/mainnav.inc.php'); ?>
+				</ul>
+			</nav>
+			
 			
 <!-- END OF Tablet/Desktop Nav Bar -->				
 		</div><!-- END OF column -->

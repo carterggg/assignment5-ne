@@ -40,10 +40,7 @@
 <!-- Tablet/Desktop Nav Bar -->
 			<nav>
 				<ul>
-				 <li class="main-nav nav-a"><a href="news.html">NEWS</a></li>
-					<li class="main-nav nav-a"><a href="designs.html">DESIGNS</a></li>	
-					<li class="main-nav nav-a"><a href="about.html">AB0UT</a></li>	
-					<li class="main-nav nav-a"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
+				 	<?php include('inc/mainnav.inc.php'); ?>
 				</ul>
 				</nav>
 <!-- END OF Tablet/Desktop Nav Bar -->
@@ -53,13 +50,7 @@
 			<div class="hidden-sm hidden-md hidden-lg col-xs-12">
 			<nav class="mobile-nav">
 				<ul>
-				 <li class="main-nav nav-a"><a href="news.html">NEWS</a></li>
-					<li class="main-nav nav-a"><a href="designs.html">DESIGNS</a></li>	
-					<li class="main-nav nav-a"><a href="about.html">AB0UT</a></li>
-					<li class="main-nav nav-a"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
-					<li class="main-nav nav-a"><a href="contact.php">C0NTACT</a></li>
-					<li class="main-nav nav-a"><a href="#">INSTAGRAM</a></li>
-					<li class="main-nav nav-a"><a href="#">FACEB00K</a></li>
+				 	<?php include('inc/mobilenav.inc.php'); ?>
 				</ul>
 			</nav>
 			

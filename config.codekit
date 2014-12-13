@@ -20,11 +20,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/content\/blog-content.html": {
+	"\/content\/blog-page1.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/content\/blog-content.html",
+		"inputAbbreviatedPath": "\/content\/blog-page1.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -37,17 +37,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/images\/border-image.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 366449,
-		"inputAbbreviatedPath": "\/images\/border-image.png",
-		"outputAbbreviatedPath": "\/images\/border-image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/images\/designs\/4-mulitvisionlady-01.jpg": {
 		"fileType": 16384,
@@ -148,13 +137,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/designs\/L8nightnightmirrors-NE.jpg": {
+	"\/images\/designs\/l8nightnightmirrors-ne.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.1689e+06,
-		"inputAbbreviatedPath": "\/images\/designs\/L8nightnightmirrors-NE.jpg",
-		"outputAbbreviatedPath": "\/images\/designs\/L8nightnightmirrors-NE.jpg",
+		"inputAbbreviatedPath": "\/images\/designs\/l8nightnightmirrors-ne.jpg",
+		"outputAbbreviatedPath": "\/images\/designs\/l8nightnightmirrors-ne.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -397,6 +386,17 @@
 		"initialSize": 1.23734e+06,
 		"inputAbbreviatedPath": "\/images\/ne-comic.png",
 		"outputAbbreviatedPath": "\/images\/ne-comic.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ne-world.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235899,
+		"inputAbbreviatedPath": "\/images\/ne-world.png",
+		"outputAbbreviatedPath": "\/images\/ne-world.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

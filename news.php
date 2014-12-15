@@ -146,7 +146,7 @@
 				<div class="fb-share-button" data-href="http://www.youtube.com/embed/Z2BoqTyPnPs" data-layout="button">
 				</div>
 				
-				<a href ="content/blog-page1.html">Check out ...</a>
+				<a href ="http://www.thrashermagazine.com/articles/videos/king-of-the-road-2014-episode-11/">Check out ...</a>
 		  			<div class="dynamic"></div>
 					
 					
@@ -282,9 +282,9 @@
 				</div> <!-- END OF row -->
 				
 				
-				</div> <!-- END OF right side of site
-			</div><!-- END OF column -->
-	</div><!-- END OF row -->
+				</div> <!-- END OF right side of site -->
+			</div> <!-- END OF column -->
+	</div> <!-- END OF row -->
 	
 <!-- END OF Right Side Bar -->				
 	

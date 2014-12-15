@@ -119,8 +119,9 @@
 <!-- Main Content Column -->		
 			<div class="col-xs-12 col-sm-9">
 				<br>
-					<h1 class="underlined">N0THING EXTRAVAGANT DESIGNS</h1>
+					<h1 class="underlined">NE DESIGNS</h1>
 					<h4>Newest - Oldest</h4>
+					<p>Check out the <a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a> for available product.</p>
 					
 				<div  class="centered-gallery">
 					<br>
@@ -148,7 +149,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-4">
 						<a href="images/designs/multiboltz.jpg" title="Multivision" data-gallery>
-        					<img src="images/designs/multiboltz.jpg" alt="Nothing Extravagant-MultiVision">
+        					<img src="images/designs/multiboltz.jpg" width="280px" alt="Nothing Extravagant-MultiVision">
     					</a>
 					</div>
 					<div class="col-xs-12 col-sm-4">
@@ -196,7 +197,7 @@
 					</div>
 						<div class="col-xs-12 col-sm-6">
 							<a href="images/designs/multi4.jpg" title="Multivision x4" data-gallery>
-        						<img src="images/designs/multi4.jpg" alt="Nothing Extravagant-Multivision x4">
+        						<img src="images/designs/multi4.jpg" width="410px" alt="Nothing Extravagant-Multivision x4">
     						</a>
 						</div>
 					</div>  <!-- END OF row -->	

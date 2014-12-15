@@ -81,7 +81,7 @@
 							<img src="images/ne-world.png" class="img-responsive" width="900px" alt="Nothing Extravagant">
 				
 				
-				
+				<br><br><br>
 				
 				
 			</div> <!-- column size ender -->

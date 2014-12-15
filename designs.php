@@ -124,54 +124,82 @@
 					
 				<div  class="centered-gallery">
 					<br>
+				<div class="row">
+					<div class="col-xs-12 col-sm-5">
 						<a href="images/designs/ne-comic.jpg" title="C0MIC" data-gallery>
-        					<img src="images/designs/ne-comic.jpg" height="400" alt="Nothing Extravagant-Comic">
+        					<img src="images/designs/ne-comic.jpg" alt="Nothing Extravagant-Comic">
     					</a>
-    					
-    					<a href="images/designs/apistolperfect.jpg" title="Pistol Perfect: Day at the beach." data-gallery>
+					</div>
+					<div class="col-xs-12 col-sm-7">
+			    		<a href="images/designs/apistolperfect.jpg" title="Pistol Perfect: Day at the beach." data-gallery>
         					<img src="images/designs/apistolperfect.jpg" height="400" alt=" Nothing Extravagant-Pistol Perfect">
     					</a>
-    					
-    					<a href="images/designs/4-mulitvisionlady-01.jpg" title="Multivision Lady" data-gallery>
-        					<img src="images/designs/4-mulitvisionlady-01.jpg" width="1000" alt=" Nothing Extravagant-Multivision Lady">
+				    </div>
+				</div>	<!-- END OF row -->	
+   					
+   				<div class="row">
+					<div class="col-xs-12 col-sm-12">
+						<a href="images/designs/4-mulitvisionlady-01.jpg" title="Multivision" data-gallery>
+        					<img src="images/designs/4-mulitvisionlady-01.jpg" alt="Nothing Extravagant-MultiVision">
     					</a>
-    					
-    					<a href="images/designs/multiboltz.jpg" title="Boltz on Board x NE" data-gallery>
-        					<img src="images/designs/multiboltz.jpg" width="300" alt=" Nothing Extravagant-Boltz on Board">
+					</div>
+				</div>	<!-- END OF row -->	
+								
+				<div class="row">
+					<div class="col-xs-12 col-sm-4">
+						<a href="images/designs/multiboltz.jpg" title="Multivision" data-gallery>
+        					<img src="images/designs/multiboltz.jpg" alt="Nothing Extravagant-MultiVision">
     					</a>
-    					
-    					<a href="images/designs/ne-face.jpg" title="Nothing Extravagant" data-gallery>
-        					<img src="images/designs/ne-face.jpg" width="350" alt=" Nothing Extravagant-face-logo">
+					</div>
+					<div class="col-xs-12 col-sm-4">
+						<a href="images/designs/ne-face.jpg" title="NE-face" data-gallery>
+        					<img src="images/designs/ne-face.jpg" alt="Nothing Extravagant-NE Face">
     					</a>
-    					
-    					<a href="images/designs/dadboat.jpg" title="Nothing Extravagant" data-gallery>
-        					<img src="images/designs/dadboat.jpg" width="350" alt=" Nothing Extravagant-face-logo">
+					</div>
+					<div class="col-xs-12 col-sm-4">
+						<a href="images/designs/dadboat.jpg" title="Dad Boat" data-gallery>
+        					<img src="images/designs/dadboat.jpg" alt="Nothing Extravagant-Dad boat">
     					</a>
-    					
-    					<a href="images/designs/nightmirrors-design.png" title="Front Pocket Design for Nightmirrors" data-gallery>
-        					<img src="images/designs/nightmirrors-design.png" height="480" alt="Nothing Extravagant-Nightmirrors">
+					</div>
+				</div>	<!-- END OF row -->	
+   					<div class="row">
+   						<div class="col-xs-12 col-sm-6">
+						<a href="images/designs/nightmirrors-design.png" title="Front Pocket design: Nightmirrors" data-gallery>
+        					<img src="images/designs/nightmirrors-design.png" alt="Nothing Extravagant-Nightmirrors">
     					</a>
-					
-						<a href="images/designs/l8nightnightmirrors-ne.jpg" title="Nightmirrors" data-gallery>
-        					<img src="images/designs/l8nightnightmirrors-ne.jpg" height="480" alt="Nightmirrors">
+					</div>
+						<div class="col-xs-12 col-sm-6">
+							<a href="images/designs/l8nightnightmirrors-ne.jpg" title="Nightmirrors" data-gallery>
+        						<img src="images/designs/l8nightnightmirrors-ne.jpg" alt="Nothing Extravagant-Nightmirrors">
+    						</a>
+						</div>
+					</div>  <!-- END OF row -->	
+   					
+   					<div class="row">
+   						<div class="col-xs-12 col-sm-6">
+						<a href="images/designs/wavvydesign.jpg" title="Wavvy" data-gallery>
+        					<img src="images/designs/wavvydesign.jpg" alt="Nothing Extravagant-Wavvy">
     					</a>
-    					
-    					<a href="images/designs/wavvydesign.jpg" title="Mircowavvy" data-gallery>
-        					<img src="images/designs/wavvydesign.jpg" width="500" alt=" Nothing Extravagant-Microwavvy">
+					</div>
+						<div class="col-xs-12 col-sm-6">
+							<a href="images/designs/superstarfanclub.png" title="Superstar Fan Club" data-gallery>
+        						<img src="images/designs/superstarfanclub.png" alt="Nothing Extravagant-Superstar Fan Club">
+    						</a>
+						</div>
+					</div>  <!-- END OF row -->	
+   					
+   					<div class="row">
+   						<div class="col-xs-12 col-sm-6">
+						<a href="images/designs/dearhumanshirt.png" title="Dear Humans" data-gallery>
+        					<img src="images/designs/dearhumanshirt.png" alt="Nothing Extravagant-Dear Humans">
     					</a>
-    					
-    					<a href="images/designs/superstarfanclub.png" title="Superstar Fan CLub" data-gallery>
-        					<img src="images/designs/superstarfanclub.png" width="500" alt=" Nothing Extravagant-Superstar Fan Club">
-    					</a>
-    					
-    					<a href="images/designs/dearhumanshirt.png" title="Dear HumanBeeing" data-gallery>
-        					<img src="images/designs/dearhumanshirt.png" width="600" alt="Nothing Extravagant-Dear HumanBeeing">
-    					</a>
-    					
-       					<a href="images/designs/multi4.jpg" title="Multivision Lady" data-gallery>
-        					<img src="images/designs/multi4.jpg" width="400" alt=" Nothing Extravagant-Multivision Lady">
-    					</a>
-    					
+					</div>
+						<div class="col-xs-12 col-sm-6">
+							<a href="images/designs/multi4.jpg" title="Multivision x4" data-gallery>
+        						<img src="images/designs/multi4.jpg" alt="Nothing Extravagant-Multivision x4">
+    						</a>
+						</div>
+					</div>  <!-- END OF row -->	
     					
     					
 				<br><br><br><br><br>

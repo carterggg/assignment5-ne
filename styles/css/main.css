@@ -66,6 +66,12 @@ h2 a:active {
   color: white; }
 
 /* LAYOUT */
+.style-val {
+  font-family: "monacoregular";
+  margin: auto;
+  background-color: black;
+  color: white; }
+
 /* .nav-a unvisited link */
 .nav-a a:link {
   text-decoration: none;

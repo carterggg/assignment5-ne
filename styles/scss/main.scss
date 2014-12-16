@@ -88,7 +88,12 @@ h2 a:active {
 
 /* LAYOUT */ 
 
-
+.style-val {
+	font-family:$main-font;
+	margin: auto;
+	background-color:$main-color;
+	color:$main-color2;
+	}
 /* .nav-a unvisited link */
 .nav-a a:link {
 	text-decoration: none;

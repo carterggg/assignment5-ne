@@ -41,6 +41,30 @@ p a:active {
   background-color: black;
   color: white; }
 
+/* .nav-a unvisited link */
+h2 a:link {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a visited link */
+h2 a:visited {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
+/* .nav-a mouse over link */
+h2 a:hover {
+  text-decoration: none;
+  background-color: white;
+  color: black; }
+
+/* .nav-a selected link */
+h2 a:active {
+  text-decoration: none;
+  background-color: black;
+  color: white; }
+
 /* LAYOUT */
 /* .nav-a unvisited link */
 .nav-a a:link {

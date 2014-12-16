@@ -55,6 +55,35 @@ p a:active {
 	color: $main-color2;
 }
 
+/* .nav-a unvisited link */
+h2 a:link {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a visited link */
+h2 a:visited {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+/* .nav-a mouse over link */
+h2 a:hover {
+	text-decoration: none;
+	background-color: $main-color2;
+	color: $main-color;
+}
+
+/* .nav-a selected link */
+h2 a:active {
+	text-decoration: none;
+	background-color: $main-color;
+	color: $main-color2;
+}
+
+
 
 
 /* LAYOUT */ 

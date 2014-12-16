@@ -145,30 +145,28 @@
 				
 				<div class="fb-share-button" data-href="http://www.youtube.com/embed/Z2BoqTyPnPs" data-layout="button">
 				</div>
-				
-				<a href ="http://www.thrashermagazine.com/articles/videos/king-of-the-road-2014-episode-11/">Check out ...</a>
-		  			<div class="dynamic"></div>
-					
-					
-				
+								
 				</div><!-- END OF blog-post --><hr>
 				
-				
-				
-<!-- Pagination -->
+				<h2 class="align-center"><a href ="content/blog-page1.html" class="more">L0AD M0RE P0ST</a></h2>
+		  			<div class="dynamic"></div>	
+	  					
+<br><br><br>	
+		  					
+<!-- use if needed				
+Pagination 
 	<nav class="center-pagination">
   		<ul class="pagination pagination-sm">
    			 <li><a href="news.html"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></a></li>
     			<li class="active"><a href="news.html">1</a></li>
     			<li><a href="#">2</a></li>
-    	<!--    <li><a href="#">3</a></li>
+    		    <li><a href="#">3</a></li>
     			<li><a href="#">4</a></li>
-    			<li><a href="#">5</a></li>  -->
+    			<li><a href="#">5</a></li> 
     		<li><a href="#"><span aria-hidden="true">&raquo;</span><span class="sr-only">Next</span></a></li>
  		 </ul>
 	</nav>
-<!-- END OF Pagination -->
-				
+ END OF Pagination -->				
 				
 			</div> <!-- column size ender -->
 			

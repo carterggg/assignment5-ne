@@ -66,11 +66,14 @@ h2 a:active {
   color: white; }
 
 /* LAYOUT */
-.style-val {
+.val-style {
   font-family: "monacoregular";
   margin: auto;
-  background-color: black;
-  color: white; }
+  color: black; }
+
+.val-background {
+  padding: auto;
+  margin: auto; }
 
 /* .nav-a unvisited link */
 .nav-a a:link {

@@ -83,14 +83,20 @@ if(@$_POST['submitted'])
 			// test to see if form data is received.
 			echo '<link rel="stylesheet" href="styles/css/main.css">';
 			echo '<link rel="stylesheet" href="stylesheet.css">';
-			echo '<h2 class="style-val">Thank You, NOTHING EXTRAVAGANT will get back to you soon.</h2>';
-			echo "<p>Your message has been sent. Below is the info you provided:</p>";
+			echo '<div class="val-background">';
+			echo '<img src="images/logo/ne-logo.gif">';
+			echo "<h2 class='val-style'>Thank You, N0THING EXTRAVAGANT will get back to you soon.</h2>";
+			echo "<p>Your message has been sent. Below is the information you provided:</p>";
 			echo "<ul>";
 			echo "<li>".$name."</li>";
 			echo "<li>".$email."</li>";
 			echo "<li>".$message."</li>";
 			echo "</ul>";
-			echo "<a href=\"". REDIRECT_URL ."\">Go Back to Home Page</a>";
+			echo "<br>";
+			echo "<a href=\"".REDIRECT_URL ."\">Go Back to Home Page</a>";
+			echo "<br>";
+			echo "<a href='http://boltzonboard.com'>Recycled Skateboard Jewelry</a>";
+			echo '</div>';
 			exit();
 		}
 		

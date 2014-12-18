@@ -40,7 +40,10 @@
 <!-- Tablet/Desktop Nav Bar -->
 			<nav>
 				<ul>
-				 	<?php include('inc/mainnav.inc.php'); ?>
+				 		<li class="main-nav nav-a"><a href="news.php">NEWS</a></li>
+					<li class="main-nav nav-a"><a href="designs.php">DESIGNS</a></li>	
+					<li class="main-nav nav-a"><a href="about.php">AB0UT</a></li>	
+					<li class="main-nav nav-a"><a href="http://nothingextravagant.bigcartel.com/" target="_blank">SH0P</a></li>
 				</ul>
 				</nav>
 <!-- END OF Tablet/Desktop Nav Bar -->

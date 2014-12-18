@@ -201,6 +201,19 @@
     						</a>
 						</div>
 					</div>  <!-- END OF row -->	
+   					
+   					<div class="">
+   						<div class="col-xs-12">
+   							<a href="images/designs/mightbe-front.jpg" title="Multivision x4" data-gallery>
+        						<img src="images/designs/mightbe-front.jpg" width="410px" alt="Nothing Extravagant-Multivision x4">
+   						</div>
+   						
+   						<div class="col-xs-12">
+   							<a href="images/designs/mightbe.jpg" title="Multivision x4" data-gallery>
+        						<img src="images/designs/mightbe.jpg" width="410px" alt="Nothing Extravagant-Multivision x4">
+   						</div>
+   						
+   					</div> <!-- END OF row -->	
     					
     					
 				<br><br><br><br><br>

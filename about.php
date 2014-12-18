@@ -76,9 +76,9 @@
 				<br>
 					<h1 class="underlined">N0THING EXTRAVAGANT</h1>
 					<br>
-						<p>The thoughts and ideas that the generic society can't comprehend, what is <i>nothing extravagant</i> too them, is a different world too us.</p>
+						<p>It is, what it isn't.</p>
 						
-							<img src="images/ne-world.png" class="img-responsive" width="900px" alt="Nothing Extravagant">
+							<img src="images/ne-world.png" class="img-responsive" width="700px" alt="Nothing Extravagant">
 				
 				
 				<br><br><br>
